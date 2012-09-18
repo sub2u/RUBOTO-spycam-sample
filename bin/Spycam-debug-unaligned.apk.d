@@ -1,0 +1,22 @@
+/home/rao/spycam/bin/Spycam-debug-unaligned.apk : \
+/home/rao/spycam/bin/Spycam.ap_ \
+/home/rao/spycam/bin/classes.dex \
+/home/rao/spycam/src/spycam_activity.rb \
+/home/rao/spycam/src/spycam_server.rb \
+/home/rao/spycam/src/camera_helper.rb \
+/home/rao/spycam/src/ruboto/widget.rb \
+/home/rao/spycam/src/ruboto/version.rb \
+/home/rao/spycam/src/ruboto/menu.rb \
+/home/rao/spycam/src/ruboto/activity.rb \
+/home/rao/spycam/src/ruboto/broadcast_receiver.rb \
+/home/rao/spycam/src/ruboto/package.rb \
+/home/rao/spycam/src/ruboto/preference.rb \
+/home/rao/spycam/src/ruboto/base.rb \
+/home/rao/spycam/src/ruboto/service.rb \
+/home/rao/spycam/src/ruboto/generate.rb \
+/home/rao/spycam/src/ruboto/util/toast.rb \
+/home/rao/spycam/src/ruboto/util/stack.rb \
+/home/rao/spycam/src/ruboto/legacy.rb \
+/home/rao/spycam/src/ruboto.rb \
+/opt/android-sdk/tools/support/annotations.jar \
+/home/rao/spycam/libs/dexmaker20120305.jar \
